@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Pokemon_example" />
+  <img src="https://fontmeme.com/images/Pokemon-Logo.jpg" alt="Pokemon_example" />
 
   &#xa0;
 
@@ -49,9 +49,8 @@
 This is an example app built with Flutter consuming the pokemos API https://pokeapi.co/
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: List pokemons using lazy loading\
+:heavy_check_mark: Show nfo of pokemons
 
 ## :rocket: Technologies ##
 
